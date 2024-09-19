@@ -6,3 +6,9 @@
 <a href='https://asmallroom.tistory.com/23'>
   <p><b>2. 스택 / 큐</b></p>
 </a>
+<a href='https://asmallroom.tistory.com/24'>
+  <p><b>3. 힙</b></p>
+</a>
+
+
+
